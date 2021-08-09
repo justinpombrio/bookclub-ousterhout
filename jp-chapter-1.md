@@ -1,4 +1,4 @@
-# Chapter 1: It's All About Complexity
+## Chapter 1: It's All About Complexity
 
 Thank God, someone else realizes that complexity management is one of the biggest obstacles to
 software development.

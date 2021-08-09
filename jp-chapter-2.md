@@ -1,4 +1,4 @@
-# Chapter 2: The Nature of Complexity
+## Chapter 2: The Nature of Complexity
 
 Good definition of complexity:
 
