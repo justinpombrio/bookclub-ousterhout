@@ -3,6 +3,9 @@
 Modules! A module is anything that can be thought of as having an interface that's separate from its
 implementation. Examples include classes, modules, namespaces, services, and even functions.
 
+Chris points out: you don't actually want deeper modules. Doubling the complexity of a module for no
+reason is not good.
+
 #### Interfaces
 
 Interfaces can be split into formal and informal parts:
